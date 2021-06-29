@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Disease
+comment0.text=\r\n\ Class\ Disease\ is\ responsible\ for\ storing\ the\ information\ about\ the\ \r\n\ disease\ present\ in\ the\ simulation\ and\ its\ status.\r\n\r\n\ @author\ Alexandra-Maria\ Anastase\ and\ Ioana-Daria\ Vasile\r\n\ @version\ 2021.03.03\r\n
+comment1.params=
+comment1.target=Disease()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DiseaseGenerator\r\n
+comment2.params=
+comment2.target=double\ getSpreadingProbability()
+comment2.text=\r\n\ Returns\ the\ spreading\ probability\ of\ the\ disease\ \r\n\ @return\ SPREADING_PROBABILITY\ The\ spreading\ probability\r\n\ of\ the\ disease\r\n
+comment3.params=
+comment3.target=int\ getDiseaseDuration()
+comment3.text=\r\n\ Returns\ the\ disease\ duration\r\n\ @return\ DISEASE_DURATION\ The\ disease\ duration\r\n
+comment4.params=
+comment4.target=void\ simulateDisease()
+comment4.text=\r\n\ Simulates\ the\ disease\ (decides\ whether\ the\ disease\ is\ present)\r\n
+comment5.params=
+comment5.target=boolean\ getStatus()
+comment5.text=\r\n\ Returns\ true\ if\ the\ disease\ is\ present\ and\ false\ otherwise\r\n\ @return\ status\ The\ disease\ status\r\n
+comment6.params=value
+comment6.target=void\ setStatus(boolean)
+comment6.text=\r\n\ Sets\ the\ statue\ of\ the\ disease.\r\n\ @param\ value\ The\ value\ that\ the\ status\ of\ the\ disease\ \r\n\ should\ be\ set\ to\r\n
+numComments=7

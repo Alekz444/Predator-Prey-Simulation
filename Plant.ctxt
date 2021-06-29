@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Plant
+comment0.text=\r\n\ A\ class\ representing\ shared\ characteristics\ of\ plants.\r\n\ Plants\ are\ a\ food\ source\ for\ some\ animals,\ they\ grow\ \r\n\ and\ reproduce.\r\n\r\n\ @author\ Alexandra-Maria\ Anastase\ and\ Ioana-Daria\ Vasile\r\n\ @version\ 2021.03.03\r\n
+comment1.params=randomAge\ field\ location
+comment1.target=Plant(boolean,\ Field,\ Location)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Plant\r\n\ @param\ randomAge\ Whether\ a\ plant\ will\ be\ initialized\ with\ a\ random\ age\r\n\ @param\ field\ The\ field\ currently\ occupied.\r\n\ @param\ location\ The\ location\ within\ the\ field.\r\n
+comment2.params=
+comment2.target=void\ grow()
+comment2.text=\r\n\ Make\ plant\ grow\ and\ checks\ whether\ it\ is\ ready\ to\ eat.\r\n
+comment3.params=
+comment3.target=int\ getGrowthRate()
+comment3.text=\r\n\ @return\ GROWTH_RATE\ The\ growth\ rate\ of\ the\ plant.\ \r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Timer
+comment0.text=\r\n\ Class\ Timer\ is\ responsile\ for\ keeping\ track\ of\ the\ time\r\n\ in\ the\ simulation.\ A\ day\ has\ 24\ steps\ and\ is\ separated\r\n\ into\ day\ and\ night.\ Time\ of\ day\ changes\ depending\r\n\ on\ the\ number\ of\ steps\ in\ the\ simulation.\r\n\r\n\ @author\ Alexandra-Maria\ Anastase\ and\ Ioana-Daria\ Vasile\r\n\ @version\ 2021.03.03\r\n
+comment1.params=isDay
+comment1.target=Timer(boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Timer\r\n\ @param\ isDay\ Status\ of\ daytime\r\n
+comment2.params=
+comment2.target=void\ incrementTime()
+comment2.text=\r\n\ Increments\ time\ by\ one\ and\ changes\ the\ time\ of\ day\r\n\ when\ necessary.\r\n
+comment3.params=
+comment3.target=boolean\ isDay()
+comment3.text=\ Returns\ true\ if\ it\ is\ daytime\ and\ false\ if\ it\ is\ night.\r\n\ @return\ isDay\ Status\ of\ daytime.\r\n
+comment4.params=
+comment4.target=void\ changeTimeOfDay()
+comment4.text=\r\n\ Changes\ the\ time\ of\ day\ to\ night\ if\ it\ is\ day\r\n\ and\ to\ day\ if\ it\ is\ night.\r\n
+numComments=5

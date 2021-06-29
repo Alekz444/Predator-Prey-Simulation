@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=WeatherSimulator
+comment0.text=\r\n\ Class\ WeatherSimulator\ is\ responsible\ for\ simulating\ the\ weather\r\n\ of\ the\ simulation.\ There\ are\ three\ types\ of\ weather\:\ snowstorm,\ \r\n\ fog\ and\ normal\ weather\ (when\ there\ is\ neither\ of\ the\ former\ types).\r\n\ It\ uses\ a\ Weather\ object\ to\ keep\ track\ of\ the\ type\ of\ weather.\r\n\r\n\ @author\ Alexandra-Maria\ Anastase\ and\ Ioana-Daria\ Vasile\r\n\ @version\ 2021.03.03\r\n
+comment1.params=
+comment1.target=WeatherSimulator()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WeatherSimulator\r\n
+comment2.params=
+comment2.target=void\ resetWeather()
+comment2.text=\r\n\ Resets\ the\ weather\ by\ setting\ the\ values\ of\ the\ weather\ types\r\n\ to\ false\ and\ simulating\ a\ new\ type\ of\ weather.\r\n
+comment3.params=
+comment3.target=void\ decrementSteps()
+comment3.text=\r\n\ Decrements\ the\ number\ of\ steps\ the\ weather\ has\ left\r\n\ for\ acting.\r\n
+comment4.params=
+comment4.target=Weather\ getWeather()
+comment4.text=\r\n\ Returns\ the\ updated\ weather\ object.\r\n\ @return\ weather\ The\ weather\ object\ of\ the\ simulation\r\n
+comment5.params=
+comment5.target=void\ simulateWeather()
+comment5.text=\r\n\ Simulates\ a\ new\ type\ of\ weather\ based\ on\ probability.\r\n
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GenderedAnimal
+comment0.text=\r\n\ A\ class\ representing\ shared\ characteristics\ of\ animals\r\n\ who\ can\ be\ either\ female\ or\ male.\r\n\r\n\ @author\ Alexandra-Maria\ Anastase\ and\ Ioana-Daria\ Vasile\r\n\ @version\ 2021.03.03\r\n
+comment1.params=randomAge\ field\ location\ isFemale
+comment1.target=GenderedAnimal(boolean,\ Field,\ Location,\ boolean)
+comment1.text=\r\n\ Create\ a\ new\ gendered\ animal\ at\ location\ in\ field.\r\n\ @param\ randomAge\ Whether\ an\ animal\ will\ be\ initialized\ with\ a\ random\ age\r\n\ @param\ field\ The\ field\ currently\ occupied.\r\n\ @param\ location\ The\ location\ within\ the\ field.\r\n\ @param\ isFemale\ Whether\ the\ animal\ is\ a\ female\ or\ not\r\n
+comment2.params=
+comment2.target=boolean\ isFemale()
+comment2.text=\r\n\ @return\ isFemale\ Whether\ the\ animal\ is\ female\ or\ not.\r\n
+numComments=3

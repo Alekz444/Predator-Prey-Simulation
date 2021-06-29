@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Weather
+comment0.text=\r\n\ Class\ Weather\ is\ responsible\ for\ storing\ the\ current\ \r\n\ weather\ of\ the\ simulation\ (snowstorm,\ fog\ or\ normal).\r\n\r\n\ @author\ Alexandra-Maria\ Anastase\ and\ Ioana-Daria\ Vasile\r\n\ @version\ 2021.03.03\r\n
+comment1.params=
+comment1.target=Weather()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Weather\r\n
+comment2.params=
+comment2.target=boolean\ isSnowstorm()
+comment2.text=\r\n\ Returns\ true\ if\ the\ weather\ type\ is\ snowstorm\ and\ false\ otherwise.\r\n\ @return\ snowstorm\ The\ status\ of\ snowstorm\r\n\ \r\n
+comment3.params=
+comment3.target=boolean\ isFog()
+comment3.text=\r\n\ Returns\ true\ if\ the\ weather\ type\ is\ fog\ and\ false\ otherwise.\r\n\ @return\ fog\ Status\ of\ fog\r\n\ \r\n
+comment4.params=status
+comment4.target=void\ setSnowstorm(boolean)
+comment4.text=\r\n\ Sets\ the\ status\ of\ the\ snowstorm\ to\ the\ status\ of\ the\ parameter.\r\n\ @param\ status\ Status\ the\ snowstorm\ should\ be\ set\ to\r\n
+comment5.params=status
+comment5.target=void\ setFog(boolean)
+comment5.text=\r\n\ Sets\ the\ status\ of\ the\ fog\ to\ the\ status\ of\ the\ parameter.\r\n\ @param\ status\ Status\ the\ fog\ should\ be\ set\ to\r\n
+numComments=6

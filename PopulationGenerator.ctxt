@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PopulationGenerator
+comment0.text=\r\n\ Class\ PopulationGenerator\ is\ responsible\ for\ the\ initial\ creation\ \r\n\ of\ the\ actors\ of\ the\ simulation.\ It\ relies\ on\ a\ Random\ object,\r\n\ the\ creation\ probabilities\ of\ the\ actors\ and\ the\ type\ of\ terrain.\r\n\r\n\ @author\ Alexandra-Maria\ Anastase\ and\ Ioana-Daria\ Vasile\r\n\ @version\ 2021.03.03\r\n
+comment1.params=
+comment1.target=PopulationGenerator()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PopulationGenerator\r\n
+comment2.params=field\ actors\ terrainGenerator
+comment2.target=void\ populate(Field,\ java.util.List,\ TerrainGenerator)
+comment2.text=\r\n\ Populates\ the\ field\ with\ the\ actors.\r\n\ @param\ field\ The\ field\ of\ the\ simulation\r\n\ @param\ actors\ List\ of\ actors\ to\ fill\r\n\ @param\ terrainGenerator\ The\ terrain\ generator\ of\ the\ simulation\r\n
+comment3.params=view
+comment3.target=void\ setActorsColors(SimulatorView)
+comment3.text=\r\n\ Sets\ the\ color\ that\ each\ actor\ will\ have\ in\ the\ view\ of\ the\ simulation.\r\n\ @param\ view\ The\ view\ of\ the\ simulation\r\n
+numComments=4
