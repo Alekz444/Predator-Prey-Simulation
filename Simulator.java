@@ -83,6 +83,13 @@ public class Simulator
         reset();
     }
 
+    public static void main(String[] args) {
+        // Create a Simulator instance.
+        Simulator simulator = new Simulator();
+        // Start the simulation.
+        simulator.runLongSimulation();
+    }
+
     /**
      * Run the simulation from its current state for a reasonably long period,
      * (4000 steps).

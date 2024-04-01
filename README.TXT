@@ -15,6 +15,10 @@ This is the first version of the simulation. This version
 does not use inheritance.
 
 How to start:
+    javac -source 1.8 -target 1.8 *.java
+    java Simulator
+
+    BLUEJ instructions:
     Create a Simulator object.
     Then call one of:
         + simulateOneStep - for a single step.
