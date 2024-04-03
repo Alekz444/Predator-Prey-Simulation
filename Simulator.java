@@ -87,7 +87,7 @@ public class Simulator
         // Create a Simulator instance.
         Simulator simulator = new Simulator();
         // Start the simulation.
-        simulator.runLongSimulation();
+        simulator.simulate(500);
     }
 
     /**
